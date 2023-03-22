@@ -22,4 +22,4 @@
  - как влияют рейтинги игр на их продажи.
 
 ## Используемые библиотеки
-`Python` `Pandas` `Numpy` `Matplotlib`
+`Pandas` `Numpy` `Matplotlib`
