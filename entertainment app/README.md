@@ -13,4 +13,4 @@
  - понять какие факторы мешают привлечению клиентов.
 
 ## Используемые библиотеки
-`Python` `Pandas` `Numpy` `Matplotlib`
+`Pandas` `Numpy` `Matplotlib`
