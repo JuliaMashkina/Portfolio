@@ -11,10 +11,12 @@
 | [Анализ поведения пользователей мобильного приложения стартапа продуктов питания][5] | Используя данные мобильного приложения для продажи продуктов питания анализируе воронку продаж, а так же оцениваем результаты A/A/B-тестирования | `Python` `Pandas` `Numpy` `Matplotlib` `Plotly` `SciPy`| Завершен|
 | [Исследование рынка заведений общественного питания в Москве][6] | Исследуем особенности на рынке заведений общественного питания в городе Москве, для подготовки презентации инвесторам | `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn`| Завершен|
 | [Исследование истории TED-конференций ](https://public.tableau.com/app/profile/julia1788/viz/TED_conferences/TED) | Используя данные на основе материалов сайта TED исследуем историю TED-конференций| `Tableau`| Завершен|
+| [Оценка результатов A/B-тестирования][7] | Оцениваем корректность проведения эксперимента, проводим анализ результатов тестирования| `Pandas` `Numpy` `Matplotlib` `SciPy` `Math`| Завершен|
 
 [1]: https://github.com/JuliaMashkina/Portfolio/tree/main/real_estate
 [2]: https://github.com/JuliaMashkina/Portfolio/tree/main/the_success_of_the_games
 [3]: https://github.com/JuliaMashkina/Portfolio/tree/main/entertainment%20app
 [4]: https://github.com/JuliaMashkina/Portfolio/tree/main/decision_making
 [5]: https://github.com/JuliaMashkina/Portfolio/tree/main/food_shop_app
-[6]: https://github.com/JuliaMashkina/Portfolio/tree/main/moscow_places 
+[6]: https://github.com/JuliaMashkina/Portfolio/tree/main/moscow_places
+[7]: https://github.com/JuliaMashkina/yandex_practicum/tree/main/AB_results
