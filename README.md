@@ -12,6 +12,7 @@
 | [Исследование рынка заведений общественного питания в Москве][6] | Исследуем особенности на рынке заведений общественного питания в городе Москве, для подготовки презентации инвесторам | `Python` `Pandas` `Numpy` `Matplotlib` `Seaborn`| Завершен|
 | [Исследование истории TED-конференций ](https://public.tableau.com/app/profile/julia1788/viz/TED_conferences/TED) | Используя данные на основе материалов сайта TED исследуем историю TED-конференций| `Tableau`| Завершен|
 | [Оценка результатов A/B-тестирования][7] | Оцениваем корректность проведения эксперимента, проводим анализ результатов тестирования| `Pandas` `Numpy` `Matplotlib` `SciPy` `Math`| Завершен|
+| [Дашборд личных финансов][8] | Используя данные банковских счетов формируем дашборд личных финансов| `DataLens`| Завершен|
 
 [1]: https://github.com/JuliaMashkina/Portfolio/tree/main/real_estate
 [2]: https://github.com/JuliaMashkina/Portfolio/tree/main/the_success_of_the_games
@@ -20,3 +21,4 @@
 [5]: https://github.com/JuliaMashkina/Portfolio/tree/main/food_shop_app
 [6]: https://github.com/JuliaMashkina/Portfolio/tree/main/moscow_places
 [7]: https://github.com/JuliaMashkina/yandex_practicum/tree/main/AB_results
+[8]: https://datalens.yandex/xgwhqy7wpl7en
